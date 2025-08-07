@@ -40,3 +40,5 @@ class InOverApp
         myCat.MakeSound();    // Output: Meow
     }
 }
+//Inheritance and Overriding has been successfully implemented in this code.
+// The Animal class is the parent class, and Dog and Cat are child classes that override the MakeSound method.
