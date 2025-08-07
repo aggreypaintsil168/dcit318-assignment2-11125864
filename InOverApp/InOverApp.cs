@@ -2,7 +2,7 @@
 // Parent class
 class Animal
 {
-    public virtual void MakeSound()
+    public virtual void MakeSound() // 'virtual' means this can be overridden
     {
         Console.WriteLine("Some generic sound");
     }
@@ -11,7 +11,8 @@ class Animal
 // Child class
 class Dog : Animal 
 {
-    public override void MakeSound() {
+    public override void MakeSound() // Replaces parent's version
+    {
         Console.WriteLine("Bark");
     }
 }
@@ -19,13 +20,14 @@ class Dog : Animal
 // Another child class
 class Cat : Animal 
 {
-    public override void MakeSound() {
+    public override void MakeSound()
+    {
         Console.WriteLine("Meow");
     }
 }
 
 // Testing
-class Program
+class InOverApp
 {
     static void Main(string[] args)
     {
