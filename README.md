@@ -11,7 +11,7 @@ A **base class** called Animal is created with a method MakeSound().
 In the Main() method, we create objects of each class and call their sound methods.
 
 ## 🧠 Concepts Used
-Concept	Explanation
+
 **Class:**A blueprint for creating objects (e.g. Animal, Dog, Cat)
 **Object:**A real "thing" created from a class
 **Inheritance:**One class (child) inherits properties and methods from another (parent)
