@@ -1,52 +1,36 @@
 ﻿using System;
 
-abstract class Shape
+interface IMovable
 {
-    public abstract double GetArea(); // No body - just a rule
+    void Move(); // No body, just a rule
 }
 
-class Circle : Shape
+class Car : IMovable
 {
-    public double Radius;
-
-    public Circle(double radius)
+    public void Move()
     {
-        Radius = radius;
-    }
-
-    public override double GetArea()
-    {
-        return Math.PI * Radius * Radius;
+        Console.WriteLine("Car is moving");
     }
 }
 
-class Rectangle : Shape
+class Bicycle : IMovable
 {
-    public double Width;
-    public double Height;
-
-    public Rectangle(double width, double height)
+    public void Move()
     {
-        Width = width;
-        Height = height;
-    }
-
-    public override double GetArea()
-    {
-        return Width * Height;
+        Console.WriteLine("Bicycle is moving");
     }
 }
 
-class Interfaces
+class Program
 {
     static void Main()
     {
-        Circle circle = new Circle(5); // radius = 5
-        Rectangle rectangle = new Rectangle(4, 6); // width = 4, height = 6
+        Car car = new Car();
+        Bicycle bicycle = new Bicycle();
 
-        Console.WriteLine("Circle Area: " + circle.GetArea());
-        Console.WriteLine("Rectangle Area: " + rectangle.GetArea());
+        car.Move();         // Outputs: Car is moving
+        bicycle.Move();     // Outputs: Bicycle is moving
     }
 }
-// The code demonstrates the use of abstract classes and methods in C#.
-// The Shape class is abstract and defines a rule for calculating area.
+// This code demonstrates the use of an interface (IMovable) that defines a method (Move).
+// The Car and Bicycle classes implement this interface, providing their own versions of the Move method.
