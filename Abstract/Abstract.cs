@@ -48,3 +48,5 @@ class Abstract
         Console.WriteLine("Rectangle Area: " + rectangle.GetArea());
     }
 }
+// The code demonstrates the use of abstract classes and methods in C#.
+// The Shape class is abstract and defines a rule for calculating area.
