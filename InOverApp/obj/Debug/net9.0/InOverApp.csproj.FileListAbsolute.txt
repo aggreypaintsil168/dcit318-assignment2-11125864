@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\bin\Debug\net9.0\InOverApp.exe
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\bin\Debug\net9.0\InOverApp.deps.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\bin\Debug\net9.0\InOverApp.runtimeconfig.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\bin\Debug\net9.0\InOverApp.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\bin\Debug\net9.0\InOverApp.pdb
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.AssemblyInfo.cs
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.sourcelink.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\refint\InOverApp.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.pdb
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\InOverApp.genruntimeconfig.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\InOverApp\obj\Debug\net9.0\ref\InOverApp.dll
