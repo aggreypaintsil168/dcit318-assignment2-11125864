@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\bin\Debug\net9.0\Abstract.exe
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\bin\Debug\net9.0\Abstract.deps.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\bin\Debug\net9.0\Abstract.runtimeconfig.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\bin\Debug\net9.0\Abstract.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\bin\Debug\net9.0\Abstract.pdb
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfo.cs
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.sourcelink.json
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\refint\Abstract.dll
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.pdb
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\Abstract.genruntimeconfig.cache
+C:\Users\dell\Desktop\C-SHARP\dcit318-assignment2-11125864\dcit318-assignment2-11125864\Abstract\obj\Debug\net9.0\ref\Abstract.dll
